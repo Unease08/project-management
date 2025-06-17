@@ -42,6 +42,7 @@ yarn-error.log*
 
 # dependencies
 /client/node_modules
+/server/node_modules
 /client/.pnp
 /client/.pnp.*
 client/.yarn/*
